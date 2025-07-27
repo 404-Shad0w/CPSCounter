@@ -1,0 +1,5 @@
+name: CpsCounter
+version: 1.0.0
+main: shadow\Loader
+api: 5.0.0
+author: 404_Shad0w
